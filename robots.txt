@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cn.vgknwww.cn/sitemap.xml
